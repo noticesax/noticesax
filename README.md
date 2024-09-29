@@ -36,9 +36,9 @@
 
 <p align="center">
   <a href="https://t.me/noticesa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="noticesa" height="30" width="40" />
-  </a>
+     Telegram 🧾
+  </a> 
   <a href="mailto:anstykx00@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="anstykx00@gmail.com" height="30" width="40" />
+     Email ✉️
   </a>
 </p>
