@@ -31,14 +31,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noticesax&theme=radical" alt="noticesa's GitHub streak" />
 </p>
-
-<h3 align="center">Let's Connect!</h3>
-
-<p align="center">
-  <a href="https://t.me/noticesa" target="blank">
-     Telegram 🧾
-  </a> 
-  <a href="mailto:anstykx00@gmail.com" target="blank">
-     Email ✉️
-  </a>
-</p>
