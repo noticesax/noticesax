@@ -24,11 +24,11 @@
 <h3 align="center">My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noticesa&show_icons=true&theme=radical" alt="noticesa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noticesax&show_icons=true&theme=radical" alt="noticesa's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noticesa&theme=radical" alt="noticesa's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noticesax&theme=radical" alt="noticesa's GitHub streak" />
 </p>
 
 <h3 align="center">Let's Connect!</h3>
